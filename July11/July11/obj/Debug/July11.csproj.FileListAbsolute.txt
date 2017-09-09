@@ -1,6 +1,0 @@
-E:\Visual Studio\mycs\July11\July11\bin\Debug\July11.exe.config
-E:\Visual Studio\mycs\July11\July11\bin\Debug\July11.exe
-E:\Visual Studio\mycs\July11\July11\bin\Debug\July11.pdb
-E:\Visual Studio\mycs\July11\July11\obj\Debug\July11.csprojResolveAssemblyReference.cache
-E:\Visual Studio\mycs\July11\July11\obj\Debug\July11.exe
-E:\Visual Studio\mycs\July11\July11\obj\Debug\July11.pdb

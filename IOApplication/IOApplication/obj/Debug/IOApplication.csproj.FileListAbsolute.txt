@@ -1,6 +1,0 @@
-E:\Visual Studio\mycs\IOApplication\IOApplication\bin\Debug\IOApplication.exe.config
-E:\Visual Studio\mycs\IOApplication\IOApplication\bin\Debug\IOApplication.exe
-E:\Visual Studio\mycs\IOApplication\IOApplication\bin\Debug\IOApplication.pdb
-E:\Visual Studio\mycs\IOApplication\IOApplication\obj\Debug\IOApplication.exe
-E:\Visual Studio\mycs\IOApplication\IOApplication\obj\Debug\IOApplication.pdb
-E:\Visual Studio\mycs\IOApplication\IOApplication\obj\Debug\IOApplication.csprojResolveAssemblyReference.cache

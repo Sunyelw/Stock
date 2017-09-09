@@ -1,8 +1,0 @@
-E:\Visual Studio\mycs\登录验证\登录验证\bin\Debug\登录验证.exe.config
-E:\Visual Studio\mycs\登录验证\登录验证\bin\Debug\登录验证.exe
-E:\Visual Studio\mycs\登录验证\登录验证\bin\Debug\登录验证.pdb
-E:\Visual Studio\mycs\登录验证\登录验证\obj\Debug\登录验证.Form1.resources
-E:\Visual Studio\mycs\登录验证\登录验证\obj\Debug\登录验证.Properties.Resources.resources
-E:\Visual Studio\mycs\登录验证\登录验证\obj\Debug\登录验证.csproj.GenerateResource.Cache
-E:\Visual Studio\mycs\登录验证\登录验证\obj\Debug\登录验证.exe
-E:\Visual Studio\mycs\登录验证\登录验证\obj\Debug\登录验证.pdb
