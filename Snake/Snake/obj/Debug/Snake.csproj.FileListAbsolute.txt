@@ -1,0 +1,9 @@
+E:\Visual Studio\mycs\Snake\Snake\bin\Debug\Snake.exe.config
+E:\Visual Studio\mycs\Snake\Snake\obj\Debug\Snake.csprojResolveAssemblyReference.cache
+E:\Visual Studio\mycs\Snake\Snake\obj\Debug\Snake.SnakePart.resources
+E:\Visual Studio\mycs\Snake\Snake\obj\Debug\Snake.Properties.Resources.resources
+E:\Visual Studio\mycs\Snake\Snake\obj\Debug\Snake.csproj.GenerateResource.Cache
+E:\Visual Studio\mycs\Snake\Snake\bin\Debug\Snake.exe
+E:\Visual Studio\mycs\Snake\Snake\bin\Debug\Snake.pdb
+E:\Visual Studio\mycs\Snake\Snake\obj\Debug\Snake.exe
+E:\Visual Studio\mycs\Snake\Snake\obj\Debug\Snake.pdb

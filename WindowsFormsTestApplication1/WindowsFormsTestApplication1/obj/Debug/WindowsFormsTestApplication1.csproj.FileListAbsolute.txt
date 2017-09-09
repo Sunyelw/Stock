@@ -1,0 +1,9 @@
+E:\Visual Studio\myC# winform\WindowsFormsTestApplication1\WindowsFormsTestApplication1\bin\Debug\WindowsFormsTestApplication1.exe.config
+E:\Visual Studio\myC# winform\WindowsFormsTestApplication1\WindowsFormsTestApplication1\bin\Debug\WindowsFormsTestApplication1.exe
+E:\Visual Studio\myC# winform\WindowsFormsTestApplication1\WindowsFormsTestApplication1\bin\Debug\WindowsFormsTestApplication1.pdb
+E:\Visual Studio\myC# winform\WindowsFormsTestApplication1\WindowsFormsTestApplication1\obj\Debug\WindowsFormsTestApplication1.csprojResolveAssemblyReference.cache
+E:\Visual Studio\myC# winform\WindowsFormsTestApplication1\WindowsFormsTestApplication1\obj\Debug\WindowsFormsTestApplication1.Form1.resources
+E:\Visual Studio\myC# winform\WindowsFormsTestApplication1\WindowsFormsTestApplication1\obj\Debug\WindowsFormsTestApplication1.Properties.Resources.resources
+E:\Visual Studio\myC# winform\WindowsFormsTestApplication1\WindowsFormsTestApplication1\obj\Debug\WindowsFormsTestApplication1.csproj.GenerateResource.Cache
+E:\Visual Studio\myC# winform\WindowsFormsTestApplication1\WindowsFormsTestApplication1\obj\Debug\WindowsFormsTestApplication1.exe
+E:\Visual Studio\myC# winform\WindowsFormsTestApplication1\WindowsFormsTestApplication1\obj\Debug\WindowsFormsTestApplication1.pdb

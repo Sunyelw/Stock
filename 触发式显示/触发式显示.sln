@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "触发式显示", "触发式显示\触发式显示.csproj", "{AB018BC3-C881-45A7-BE0D-9A90C9E8800E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AB018BC3-C881-45A7-BE0D-9A90C9E8800E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB018BC3-C881-45A7-BE0D-9A90C9E8800E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB018BC3-C881-45A7-BE0D-9A90C9E8800E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB018BC3-C881-45A7-BE0D-9A90C9E8800E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

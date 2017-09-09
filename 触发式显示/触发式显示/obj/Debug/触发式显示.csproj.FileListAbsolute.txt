@@ -1,0 +1,27 @@
+E:\Visual Studio\mycs\触发式显示\触发式显示\bin\Debug\触发式显示.exe.config
+E:\Visual Studio\mycs\触发式显示\触发式显示\bin\Debug\触发式显示.exe
+E:\Visual Studio\mycs\触发式显示\触发式显示\bin\Debug\触发式显示.pdb
+E:\Visual Studio\mycs\触发式显示\触发式显示\obj\Debug\触发式显示.csprojResolveAssemblyReference.cache
+E:\Visual Studio\mycs\触发式显示\触发式显示\obj\Debug\触发式显示.Form1.resources
+E:\Visual Studio\mycs\触发式显示\触发式显示\obj\Debug\触发式显示.Properties.Resources.resources
+E:\Visual Studio\mycs\触发式显示\触发式显示\obj\Debug\触发式显示.csproj.GenerateResource.Cache
+E:\Visual Studio\mycs\触发式显示\触发式显示\obj\Debug\触发式显示.exe
+E:\Visual Studio\mycs\触发式显示\触发式显示\obj\Debug\触发式显示.pdb
+E:\sunofyellow\My Visual C#\触发式显示\触发式显示\bin\Debug\触发式显示.exe.config
+E:\sunofyellow\My Visual C#\触发式显示\触发式显示\obj\Debug\触发式显示.exe
+E:\sunofyellow\My Visual C#\触发式显示\触发式显示\obj\Debug\触发式显示.pdb
+E:\sunofyellow\My Visual C#\触发式显示\触发式显示\bin\Debug\触发式显示.exe
+E:\sunofyellow\My Visual C#\触发式显示\触发式显示\bin\Debug\触发式显示.pdb
+E:\sunofyellow\My Visual C#\触发式显示\触发式显示\obj\Debug\触发式显示.csprojResolveAssemblyReference.cache
+E:\sunofyellow\My Visual C#\触发式显示\触发式显示\obj\Debug\触发式显示.Form1.resources
+E:\sunofyellow\My Visual C#\触发式显示\触发式显示\obj\Debug\触发式显示.Properties.Resources.resources
+E:\sunofyellow\My Visual C#\触发式显示\触发式显示\obj\Debug\触发式显示.csproj.GenerateResource.Cache
+E:\My Visual C#\触发式显示\触发式显示\bin\Debug\触发式显示.exe.config
+E:\My Visual C#\触发式显示\触发式显示\obj\Debug\触发式显示.exe
+E:\My Visual C#\触发式显示\触发式显示\obj\Debug\触发式显示.pdb
+E:\My Visual C#\触发式显示\触发式显示\bin\Debug\触发式显示.exe
+E:\My Visual C#\触发式显示\触发式显示\bin\Debug\触发式显示.pdb
+E:\My Visual C#\触发式显示\触发式显示\obj\Debug\触发式显示.csprojResolveAssemblyReference.cache
+E:\My Visual C#\触发式显示\触发式显示\obj\Debug\触发式显示.Form1.resources
+E:\My Visual C#\触发式显示\触发式显示\obj\Debug\触发式显示.Properties.Resources.resources
+E:\My Visual C#\触发式显示\触发式显示\obj\Debug\触发式显示.csproj.GenerateResource.Cache

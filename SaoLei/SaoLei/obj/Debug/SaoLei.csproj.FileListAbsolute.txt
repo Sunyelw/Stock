@@ -1,0 +1,5 @@
+C:\Users\humam\AppData\Local\Temporary Projects\SaoLei\bin\Debug\SaoLei.exe.config
+C:\Users\humam\AppData\Local\Temporary Projects\SaoLei\obj\Debug\SaoLei.csprojResolveAssemblyReference.cache
+C:\Users\humam\AppData\Local\Temporary Projects\SaoLei\obj\Debug\SaoLei.Properties.Resources.resources
+C:\Users\humam\AppData\Local\Temporary Projects\SaoLei\obj\Debug\SaoLei.csproj.GenerateResource.Cache
+E:\My Visual C#\SaoLei\SaoLei\bin\Debug\SaoLei.exe.config

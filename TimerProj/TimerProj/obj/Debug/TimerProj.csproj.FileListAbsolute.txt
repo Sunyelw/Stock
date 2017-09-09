@@ -1,0 +1,9 @@
+C:\Users\humam\AppData\Local\Temporary Projects\TimerProj\bin\Debug\TimerProj.exe.config
+C:\Users\humam\AppData\Local\Temporary Projects\TimerProj\bin\Debug\TimerProj.exe
+C:\Users\humam\AppData\Local\Temporary Projects\TimerProj\bin\Debug\TimerProj.pdb
+C:\Users\humam\AppData\Local\Temporary Projects\TimerProj\obj\Debug\TimerProj.csprojResolveAssemblyReference.cache
+C:\Users\humam\AppData\Local\Temporary Projects\TimerProj\obj\Debug\TimerProj.Form1.resources
+C:\Users\humam\AppData\Local\Temporary Projects\TimerProj\obj\Debug\TimerProj.Properties.Resources.resources
+C:\Users\humam\AppData\Local\Temporary Projects\TimerProj\obj\Debug\TimerProj.csproj.GenerateResource.Cache
+C:\Users\humam\AppData\Local\Temporary Projects\TimerProj\obj\Debug\TimerProj.exe
+C:\Users\humam\AppData\Local\Temporary Projects\TimerProj\obj\Debug\TimerProj.pdb

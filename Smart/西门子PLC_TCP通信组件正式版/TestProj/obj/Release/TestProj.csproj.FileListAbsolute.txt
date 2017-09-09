@@ -1,0 +1,22 @@
+E:\My Visual C#\Smart\西门子PLC_TCP通信组件正式版\TestProj\bin\Release\syscfg.xml
+E:\My Visual C#\Smart\西门子PLC_TCP通信组件正式版\TestProj\bin\Release\TestProj.exe
+E:\My Visual C#\Smart\西门子PLC_TCP通信组件正式版\TestProj\bin\Release\TestProj.pdb
+E:\My Visual C#\Smart\西门子PLC_TCP通信组件正式版\TestProj\bin\Release\PLCComHelperProj.dll
+E:\My Visual C#\Smart\西门子PLC_TCP通信组件正式版\TestProj\obj\Release\TestProj.csprojResolveAssemblyReference.cache
+E:\My Visual C#\Smart\西门子PLC_TCP通信组件正式版\TestProj\obj\Release\TestProj.Form1.resources
+E:\My Visual C#\Smart\西门子PLC_TCP通信组件正式版\TestProj\obj\Release\TestProj.Form2.resources
+E:\My Visual C#\Smart\西门子PLC_TCP通信组件正式版\TestProj\obj\Release\TestProj.Properties.Resources.resources
+E:\My Visual C#\Smart\西门子PLC_TCP通信组件正式版\TestProj\obj\Release\TestProj.csproj.GenerateResource.Cache
+E:\My Visual C#\Smart\西门子PLC_TCP通信组件正式版\TestProj\obj\Release\TestProj.exe
+E:\My Visual C#\Smart\西门子PLC_TCP通信组件正式版\TestProj\obj\Release\TestProj.pdb
+E:\My Visual C#\C# winform\Smart\西门子PLC_TCP通信组件正式版\TestProj\obj\Release\TestProj.exe
+E:\My Visual C#\C# winform\Smart\西门子PLC_TCP通信组件正式版\TestProj\obj\Release\TestProj.pdb
+E:\My Visual C#\C# winform\Smart\西门子PLC_TCP通信组件正式版\TestProj\bin\Release\syscfg.xml
+E:\My Visual C#\C# winform\Smart\西门子PLC_TCP通信组件正式版\TestProj\bin\Release\TestProj.exe
+E:\My Visual C#\C# winform\Smart\西门子PLC_TCP通信组件正式版\TestProj\bin\Release\TestProj.pdb
+E:\My Visual C#\C# winform\Smart\西门子PLC_TCP通信组件正式版\TestProj\bin\Release\PLCComHelperProj.dll
+E:\My Visual C#\C# winform\Smart\西门子PLC_TCP通信组件正式版\TestProj\obj\Release\TestProj.csprojResolveAssemblyReference.cache
+E:\My Visual C#\C# winform\Smart\西门子PLC_TCP通信组件正式版\TestProj\obj\Release\TestProj.Form1.resources
+E:\My Visual C#\C# winform\Smart\西门子PLC_TCP通信组件正式版\TestProj\obj\Release\TestProj.Form2.resources
+E:\My Visual C#\C# winform\Smart\西门子PLC_TCP通信组件正式版\TestProj\obj\Release\TestProj.Properties.Resources.resources
+E:\My Visual C#\C# winform\Smart\西门子PLC_TCP通信组件正式版\TestProj\obj\Release\TestProj.csproj.GenerateResource.Cache

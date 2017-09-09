@@ -1,0 +1,18 @@
+E:\Visual Studio\mycs\弹压式开关\弹压式开关\bin\Debug\弹压式开关.exe.config
+E:\Visual Studio\mycs\弹压式开关\弹压式开关\bin\Debug\弹压式开关.exe
+E:\Visual Studio\mycs\弹压式开关\弹压式开关\bin\Debug\弹压式开关.pdb
+E:\Visual Studio\mycs\弹压式开关\弹压式开关\obj\Debug\弹压式开关.csprojResolveAssemblyReference.cache
+E:\Visual Studio\mycs\弹压式开关\弹压式开关\obj\Debug\弹压式开关.Form1.resources
+E:\Visual Studio\mycs\弹压式开关\弹压式开关\obj\Debug\弹压式开关.Properties.Resources.resources
+E:\Visual Studio\mycs\弹压式开关\弹压式开关\obj\Debug\弹压式开关.csproj.GenerateResource.Cache
+E:\Visual Studio\mycs\弹压式开关\弹压式开关\obj\Debug\弹压式开关.exe
+E:\Visual Studio\mycs\弹压式开关\弹压式开关\obj\Debug\弹压式开关.pdb
+E:\My Visual C#\弹压式开关\弹压式开关\bin\Debug\弹压式开关.exe.config
+E:\My Visual C#\弹压式开关\弹压式开关\obj\Debug\弹压式开关.exe
+E:\My Visual C#\弹压式开关\弹压式开关\obj\Debug\弹压式开关.pdb
+E:\My Visual C#\弹压式开关\弹压式开关\bin\Debug\弹压式开关.exe
+E:\My Visual C#\弹压式开关\弹压式开关\bin\Debug\弹压式开关.pdb
+E:\My Visual C#\弹压式开关\弹压式开关\obj\Debug\弹压式开关.csprojResolveAssemblyReference.cache
+E:\My Visual C#\弹压式开关\弹压式开关\obj\Debug\弹压式开关.Form1.resources
+E:\My Visual C#\弹压式开关\弹压式开关\obj\Debug\弹压式开关.Properties.Resources.resources
+E:\My Visual C#\弹压式开关\弹压式开关\obj\Debug\弹压式开关.csproj.GenerateResource.Cache
