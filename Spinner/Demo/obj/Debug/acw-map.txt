@@ -1,0 +1,4 @@
+Demo.MainActivity, Demo;md5a7a3c803e481ad8926683588c7e9031b.MainActivity
+Demo.MainActivity, Demo, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5a7a3c803e481ad8926683588c7e9031b.MainActivity
+Demo.MainActivity;md5a7a3c803e481ad8926683588c7e9031b.MainActivity
+demo.MainActivity;md5a7a3c803e481ad8926683588c7e9031b.MainActivity

@@ -1,0 +1,15 @@
+E:\Visual Studio\myC# app\TestDemo2\TestDemo2\bin\Debug\TestDemo2.dll
+E:\Visual Studio\myC# app\TestDemo2\TestDemo2\bin\Debug\TestDemo2.pdb
+E:\Visual Studio\myC# app\TestDemo2\TestDemo2\bin\Debug\TestDemo2.TestDemo2.apk
+E:\Visual Studio\myC# app\TestDemo2\TestDemo2\bin\Debug\TestDemo2.TestDemo2-Signed.apk
+E:\Visual Studio\myC# app\TestDemo2\TestDemo2\obj\Debug\TestDemo2.csprojResolveAssemblyReference.cache
+E:\Visual Studio\myC# app\TestDemo2\TestDemo2\obj\Debug\TestDemo2.dll
+E:\Visual Studio\myC# app\TestDemo2\TestDemo2\obj\Debug\TestDemo2.pdb
+E:\Visual Studio\myC# app\TestDemo2\TestDemo2\obj\Debug\android\bin\TestDemo2.TestDemo2.apk
+E:\Visual Studio\myC# app\TestDemo2\TestDemo2\obj\Debug\res\layout\main.xml
+E:\Visual Studio\myC# app\TestDemo2\TestDemo2\obj\Debug\res\values\strings.xml
+E:\Visual Studio\myC# app\TestDemo2\TestDemo2\obj\Debug\res\drawable\icon.png
+E:\Visual Studio\myC# app\TestDemo2\TestDemo2\obj\Debug\R.cs.flag
+E:\Visual Studio\myC# app\TestDemo2\TestDemo2\obj\Debug\uploadflags.txt
+E:\Visual Studio\myC# app\TestDemo2\TestDemo2\obj\Debug\TestDemo2.dll.mdb
+E:\Visual Studio\myC# app\TestDemo2\TestDemo2\bin\Debug\TestDemo2.dll.mdb

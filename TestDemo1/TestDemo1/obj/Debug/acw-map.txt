@@ -1,0 +1,4 @@
+TestDemo1.MainActivity, TestDemo1;md5410768f12fc411dd68786170c3d21b76.MainActivity
+TestDemo1.MainActivity, TestDemo1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5410768f12fc411dd68786170c3d21b76.MainActivity
+TestDemo1.MainActivity;md5410768f12fc411dd68786170c3d21b76.MainActivity
+testdemo1.MainActivity;md5410768f12fc411dd68786170c3d21b76.MainActivity

@@ -1,0 +1,15 @@
+E:\Visual Studio\myC# app\AppDemo1\AppDemo1\bin\Debug\AppDemo1.dll
+E:\Visual Studio\myC# app\AppDemo1\AppDemo1\bin\Debug\AppDemo1.pdb
+E:\Visual Studio\myC# app\AppDemo1\AppDemo1\bin\Debug\AppDemo1.AppDemo1.apk
+E:\Visual Studio\myC# app\AppDemo1\AppDemo1\bin\Debug\AppDemo1.AppDemo1-Signed.apk
+E:\Visual Studio\myC# app\AppDemo1\AppDemo1\obj\Debug\AppDemo1.dll
+E:\Visual Studio\myC# app\AppDemo1\AppDemo1\obj\Debug\AppDemo1.pdb
+E:\Visual Studio\myC# app\AppDemo1\AppDemo1\obj\Debug\android\bin\AppDemo1.AppDemo1.apk
+E:\Visual Studio\myC# app\AppDemo1\AppDemo1\obj\Debug\res\layout\main.xml
+E:\Visual Studio\myC# app\AppDemo1\AppDemo1\obj\Debug\res\values\strings.xml
+E:\Visual Studio\myC# app\AppDemo1\AppDemo1\obj\Debug\res\drawable\icon.png
+E:\Visual Studio\myC# app\AppDemo1\AppDemo1\obj\Debug\R.cs.flag
+E:\Visual Studio\myC# app\AppDemo1\AppDemo1\obj\Debug\uploadflags.txt
+E:\Visual Studio\myC# app\AppDemo1\AppDemo1\obj\Debug\AppDemo1.csprojResolveAssemblyReference.cache
+E:\Visual Studio\myC# app\AppDemo1\AppDemo1\obj\Debug\AppDemo1.dll.mdb
+E:\Visual Studio\myC# app\AppDemo1\AppDemo1\bin\Debug\AppDemo1.dll.mdb

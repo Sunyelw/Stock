@@ -1,0 +1,16 @@
+E:\Visual Studio\myC# app\App2\App2\bin\Debug\App2.dll
+E:\Visual Studio\myC# app\App2\App2\bin\Debug\App2.pdb
+E:\Visual Studio\myC# app\App2\App2\bin\Debug\App2.App2.apk
+E:\Visual Studio\myC# app\App2\App2\bin\Debug\App2.App2-Signed.apk
+E:\Visual Studio\myC# app\App2\App2\obj\Debug\DateTime.csprojResolveAssemblyReference.cache
+E:\Visual Studio\myC# app\App2\App2\obj\Debug\App2.dll
+E:\Visual Studio\myC# app\App2\App2\obj\Debug\App2.pdb
+E:\Visual Studio\myC# app\App2\App2\obj\Debug\android\bin\App2.App2.apk
+E:\Visual Studio\myC# app\App2\App2\obj\Debug\res\layout\main.xml
+E:\Visual Studio\myC# app\App2\App2\obj\Debug\res\values\strings.xml
+E:\Visual Studio\myC# app\App2\App2\obj\Debug\res\drawable\icon.png
+E:\Visual Studio\myC# app\App2\App2\obj\Debug\res\drawable\one.jpg
+E:\Visual Studio\myC# app\App2\App2\obj\Debug\R.cs.flag
+E:\Visual Studio\myC# app\App2\App2\obj\Debug\uploadflags.txt
+E:\Visual Studio\myC# app\App2\App2\obj\Debug\App2.dll.mdb
+E:\Visual Studio\myC# app\App2\App2\bin\Debug\App2.dll.mdb

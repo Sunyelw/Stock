@@ -1,0 +1,4 @@
+HelloSpinner.MainActivity, HelloSpinner;md52178e5824b3ee1d84a85f9002fc347f9.MainActivity
+HelloSpinner.MainActivity, HelloSpinner, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md52178e5824b3ee1d84a85f9002fc347f9.MainActivity
+HelloSpinner.MainActivity;md52178e5824b3ee1d84a85f9002fc347f9.MainActivity
+hellospinner.MainActivity;md52178e5824b3ee1d84a85f9002fc347f9.MainActivity

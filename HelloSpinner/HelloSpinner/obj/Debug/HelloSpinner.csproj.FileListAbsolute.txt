@@ -1,0 +1,14 @@
+E:\Visual Studio\myC# app\HelloSpinner\HelloSpinner\bin\Debug\HelloSpinner.dll
+E:\Visual Studio\myC# app\HelloSpinner\HelloSpinner\bin\Debug\HelloSpinner.pdb
+E:\Visual Studio\myC# app\HelloSpinner\HelloSpinner\bin\Debug\HelloSpinner.HelloSpinner.apk
+E:\Visual Studio\myC# app\HelloSpinner\HelloSpinner\bin\Debug\HelloSpinner.HelloSpinner-Signed.apk
+E:\Visual Studio\myC# app\HelloSpinner\HelloSpinner\obj\Debug\HelloSpinner.dll
+E:\Visual Studio\myC# app\HelloSpinner\HelloSpinner\obj\Debug\HelloSpinner.pdb
+E:\Visual Studio\myC# app\HelloSpinner\HelloSpinner\obj\Debug\android\bin\HelloSpinner.HelloSpinner.apk
+E:\Visual Studio\myC# app\HelloSpinner\HelloSpinner\obj\Debug\res\layout\main.xml
+E:\Visual Studio\myC# app\HelloSpinner\HelloSpinner\obj\Debug\res\values\strings.xml
+E:\Visual Studio\myC# app\HelloSpinner\HelloSpinner\obj\Debug\res\drawable\icon.png
+E:\Visual Studio\myC# app\HelloSpinner\HelloSpinner\obj\Debug\R.cs.flag
+E:\Visual Studio\myC# app\HelloSpinner\HelloSpinner\obj\Debug\uploadflags.txt
+E:\Visual Studio\myC# app\HelloSpinner\HelloSpinner\obj\Debug\HelloSpinner.dll.mdb
+E:\Visual Studio\myC# app\HelloSpinner\HelloSpinner\bin\Debug\HelloSpinner.dll.mdb

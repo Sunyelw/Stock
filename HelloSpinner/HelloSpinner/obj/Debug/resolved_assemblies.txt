@@ -1,0 +1,9 @@
+E:\Visual Studio\myC# app\HelloSpinner\HelloSpinner\obj\Debug\assemblies\HelloSpinner.dll
+E:\Visual Studio\myC# app\HelloSpinner\HelloSpinner\obj\Debug\assemblies\Mono.Android.dll
+E:\Visual Studio\myC# app\HelloSpinner\HelloSpinner\obj\Debug\assemblies\mscorlib.dll
+E:\Visual Studio\myC# app\HelloSpinner\HelloSpinner\obj\Debug\assemblies\System.Core.dll
+E:\Visual Studio\myC# app\HelloSpinner\HelloSpinner\obj\Debug\assemblies\System.dll
+E:\Visual Studio\myC# app\HelloSpinner\HelloSpinner\obj\Debug\assemblies\System.Xml.dll
+E:\Visual Studio\myC# app\HelloSpinner\HelloSpinner\obj\Debug\assemblies\System.Xml.Linq.dll
+E:\Visual Studio\myC# app\HelloSpinner\HelloSpinner\obj\Debug\assemblies\System.Runtime.Serialization.dll
+E:\Visual Studio\myC# app\HelloSpinner\HelloSpinner\obj\Debug\assemblies\System.ServiceModel.Internals.dll

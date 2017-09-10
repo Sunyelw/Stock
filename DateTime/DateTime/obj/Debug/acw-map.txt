@@ -1,0 +1,4 @@
+DateTime1.MainActivity, DateTime;md5caff217cf69aeb92ed69a5f5ee580a6d.MainActivity
+DateTime1.MainActivity, DateTime, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5caff217cf69aeb92ed69a5f5ee580a6d.MainActivity
+DateTime1.MainActivity;md5caff217cf69aeb92ed69a5f5ee580a6d.MainActivity
+datetime1.MainActivity;md5caff217cf69aeb92ed69a5f5ee580a6d.MainActivity

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="planet_prompt">Choose a planet</string>
+	<string-array name="planets_array">
+		<item></item>
+		<item>Mercuy</item>
+		<item>Veriu</item>
+		<item>Xamarin</item>
+	</string-array>
+</resources>

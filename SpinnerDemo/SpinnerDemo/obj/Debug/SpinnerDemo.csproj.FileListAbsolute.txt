@@ -1,0 +1,15 @@
+E:\Visual Studio\myC# app\SpinnerDemo\SpinnerDemo\bin\Debug\SpinnerDemo.dll
+E:\Visual Studio\myC# app\SpinnerDemo\SpinnerDemo\bin\Debug\SpinnerDemo.pdb
+E:\Visual Studio\myC# app\SpinnerDemo\SpinnerDemo\bin\Debug\SpinnerDemo.SpinnerDemo.apk
+E:\Visual Studio\myC# app\SpinnerDemo\SpinnerDemo\bin\Debug\SpinnerDemo.SpinnerDemo-Signed.apk
+E:\Visual Studio\myC# app\SpinnerDemo\SpinnerDemo\obj\Debug\SpinnerDemo.dll
+E:\Visual Studio\myC# app\SpinnerDemo\SpinnerDemo\obj\Debug\SpinnerDemo.pdb
+E:\Visual Studio\myC# app\SpinnerDemo\SpinnerDemo\obj\Debug\android\bin\SpinnerDemo.SpinnerDemo.apk
+E:\Visual Studio\myC# app\SpinnerDemo\SpinnerDemo\obj\Debug\res\layout\main.xml
+E:\Visual Studio\myC# app\SpinnerDemo\SpinnerDemo\obj\Debug\res\values\strings.xml
+E:\Visual Studio\myC# app\SpinnerDemo\SpinnerDemo\obj\Debug\res\drawable\icon.png
+E:\Visual Studio\myC# app\SpinnerDemo\SpinnerDemo\obj\Debug\R.cs.flag
+E:\Visual Studio\myC# app\SpinnerDemo\SpinnerDemo\obj\Debug\uploadflags.txt
+E:\Visual Studio\myC# app\SpinnerDemo\SpinnerDemo\obj\Debug\SpinnerDemo.csprojResolveAssemblyReference.cache
+E:\Visual Studio\myC# app\SpinnerDemo\SpinnerDemo\obj\Debug\SpinnerDemo.dll.mdb
+E:\Visual Studio\myC# app\SpinnerDemo\SpinnerDemo\bin\Debug\SpinnerDemo.dll.mdb

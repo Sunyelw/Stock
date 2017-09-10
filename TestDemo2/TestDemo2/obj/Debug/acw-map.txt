@@ -1,0 +1,8 @@
+TestDemo2.Activity1, TestDemo2;md599dd32180e3e00f429529787db55b497.Activity1
+TestDemo2.Activity1, TestDemo2, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md599dd32180e3e00f429529787db55b497.Activity1
+TestDemo2.Activity1;md599dd32180e3e00f429529787db55b497.Activity1
+testdemo2.Activity1;md599dd32180e3e00f429529787db55b497.Activity1
+TestDemo2.MainActivity, TestDemo2;md599dd32180e3e00f429529787db55b497.MainActivity
+TestDemo2.MainActivity, TestDemo2, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md599dd32180e3e00f429529787db55b497.MainActivity
+TestDemo2.MainActivity;md599dd32180e3e00f429529787db55b497.MainActivity
+testdemo2.MainActivity;md599dd32180e3e00f429529787db55b497.MainActivity

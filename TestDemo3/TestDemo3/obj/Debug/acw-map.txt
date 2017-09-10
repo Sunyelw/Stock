@@ -1,0 +1,8 @@
+TestDemo3.ImageAdapter, TestDemo3;md54b5cf56e4dc9438cad7aa7ba8bcc00f9.ImageAdapter
+TestDemo3.ImageAdapter, TestDemo3, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md54b5cf56e4dc9438cad7aa7ba8bcc00f9.ImageAdapter
+TestDemo3.ImageAdapter;md54b5cf56e4dc9438cad7aa7ba8bcc00f9.ImageAdapter
+testdemo3.ImageAdapter;md54b5cf56e4dc9438cad7aa7ba8bcc00f9.ImageAdapter
+TestDemo3.GalleryViewSample, TestDemo3;md54b5cf56e4dc9438cad7aa7ba8bcc00f9.GalleryViewSample
+TestDemo3.GalleryViewSample, TestDemo3, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md54b5cf56e4dc9438cad7aa7ba8bcc00f9.GalleryViewSample
+TestDemo3.GalleryViewSample;md54b5cf56e4dc9438cad7aa7ba8bcc00f9.GalleryViewSample
+testdemo3.GalleryViewSample;md54b5cf56e4dc9438cad7aa7ba8bcc00f9.GalleryViewSample

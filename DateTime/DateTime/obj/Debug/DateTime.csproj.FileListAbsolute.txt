@@ -1,0 +1,15 @@
+E:\Visual Studio\myC# app\DateTime\DateTime\bin\Debug\DateTime.dll
+E:\Visual Studio\myC# app\DateTime\DateTime\bin\Debug\DateTime.pdb
+E:\Visual Studio\myC# app\DateTime\DateTime\bin\Debug\DateTime.DateTime.apk
+E:\Visual Studio\myC# app\DateTime\DateTime\bin\Debug\DateTime.DateTime-Signed.apk
+E:\Visual Studio\myC# app\DateTime\DateTime\obj\Debug\DateTime.csprojResolveAssemblyReference.cache
+E:\Visual Studio\myC# app\DateTime\DateTime\obj\Debug\DateTime.dll
+E:\Visual Studio\myC# app\DateTime\DateTime\obj\Debug\DateTime.pdb
+E:\Visual Studio\myC# app\DateTime\DateTime\obj\Debug\android\bin\DateTime.DateTime.apk
+E:\Visual Studio\myC# app\DateTime\DateTime\obj\Debug\res\layout\main.xml
+E:\Visual Studio\myC# app\DateTime\DateTime\obj\Debug\res\values\strings.xml
+E:\Visual Studio\myC# app\DateTime\DateTime\obj\Debug\res\drawable\icon.png
+E:\Visual Studio\myC# app\DateTime\DateTime\obj\Debug\R.cs.flag
+E:\Visual Studio\myC# app\DateTime\DateTime\obj\Debug\uploadflags.txt
+E:\Visual Studio\myC# app\DateTime\DateTime\obj\Debug\DateTime.dll.mdb
+E:\Visual Studio\myC# app\DateTime\DateTime\bin\Debug\DateTime.dll.mdb
